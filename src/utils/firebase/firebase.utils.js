@@ -21,12 +21,12 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC4fmvOff9Q0HV81Ivg5TyMw6LqeKA1oaM",
-  authDomain: "crwn-shop-db-b65a0.firebaseapp.com",
-  projectId: "crwn-shop-db-b65a0",
-  storageBucket: "crwn-shop-db-b65a0.appspot.com",
-  messagingSenderId: "141265768477",
-  appId: "1:141265768477:web:9d5f8bc33c7f9d51a976f4",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
